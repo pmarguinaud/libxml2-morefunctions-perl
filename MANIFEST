@@ -1,0 +1,8 @@
+ppport.h
+MANIFEST
+MoreFunctions.xs
+Changes
+lib/XML/LibXML/MoreFunctions.pm
+Makefile.PL
+t/MoreFunctions.t
+README
